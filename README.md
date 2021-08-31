@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruvkeyal
-- 👀 I’m interested in technology, software engineering and product management
+- 👀 I’m interested in combining technology and product management
 - 🌱 I’m currently an MS computer science student at UMass Amherst
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/dhruv-keyal/) | dkeyal@umass.edu
 
